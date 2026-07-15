@@ -101,15 +101,6 @@ Coursework: Applied Data Programming · Big Data Analytics · Machine Learning &
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Navya26B&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navya26B&layout=compact&theme=github_dark&hide_border=true" height="165"/>
-</div>
-
----
-
 <div align="center">
 
 ### 🌐 Connect
